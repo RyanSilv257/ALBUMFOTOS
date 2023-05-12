@@ -18,6 +18,6 @@
 /* Tamanho de Ipad*/
 @media screen and (min-width: 992px) {
     section.coluna {
-        flex: 1 1 25%
+        flex: 1 1 25%;
     }
 }
